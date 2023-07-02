@@ -24,7 +24,7 @@ packaging==23.0
 pkginfo==1.9.6
 ply==3.11
 pycparser==2.21
-Pygments==2.14.0
+Pygments==2.15.0
 PyJWT==2.6.0
 Pympler==1.0.1
 pyproject_hooks==1.0.0

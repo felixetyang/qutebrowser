@@ -3,3 +3,4 @@
 altgraph==0.17.3
 pyinstaller==5.8.0
 pyinstaller-hooks-contrib==2023.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability

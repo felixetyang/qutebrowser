@@ -16,3 +16,4 @@ tomli==2.0.1
 types-PyYAML==6.0.12.7
 typing_extensions==4.5.0
 zipp==3.14.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability

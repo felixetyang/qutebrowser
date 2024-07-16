@@ -46,3 +46,4 @@ uritemplate==4.1.1
 # urllib3==1.26.14
 webencodings==0.5.1
 zipp==3.14.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
